@@ -144,6 +144,8 @@ p {
     padding: 0px;
 }
 
+
+
 .navStyle ul li {
     display: inline-block;
     margin: 0 5px;
@@ -214,15 +216,15 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #03A9F4;
+    background: #c423bc;
     position: relative;
-    background: rgba(73,155,234,1);
-    background: -moz-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(73,155,234,1)), color-stop(100%, rgba(32,124,229,1)));
-    background: -webkit-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-    background: -o-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-    background: -ms-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-    background: linear-gradient(to right, rgba(73, 219, 234, 0.79) 0%, rgba(135, 32, 229, 0.82) 100%);
+    background: rgb(206, 38, 170);
+    background: -moz-linear-gradient(left, rgb(218, 79, 253) 0%, rgb(215, 63, 253) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgb(211, 123, 252)), color-stop(100%, rgb(197, 36, 230)));
+    background: -webkit-linear-gradient(left, rgb(223, 173, 247) 0%, rgb(229, 184, 250) 100%);
+    background: -o-linear-gradient(left, rgb(230, 154, 245) 0%, rgb(227, 124, 253) 100%);
+    background: -ms-linear-gradient(left, rgb(185, 67, 253) 0%, rgb(167, 69, 247) 100%);
+    background: linear-gradient(to right, rgba(240, 176, 226, 0.79) 0%, rgba(174, 16, 247, 0.82) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#207ce5', GradientType=1 );
 }
 
@@ -256,7 +258,7 @@ p {
 }
 
 .top_left_cont h2 {
-    font-size: 40px;
+    font-size: 50px;
     color: #FFF;
     line-height: 52px;
     margin: 0 0 26px 0;
@@ -267,7 +269,7 @@ p {
 
 .top_left_cont h2 strong {
     font-weight: 700;
-    color: #0a11ef;
+    color: FULL STACK DEVELOPER CERTIFIED PROFESSIONAL FAQS#fafbff;
     font-size: 50px;
     font-family: sans-serif;
 }
@@ -999,18 +1001,18 @@ img {
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #0b0b0b;
+    background: #3375b3;
 }
 
 .footer_bottom {
-    border-top: 1px solid #3C3A3A;
+    border-top: 1px solid #6386fa;
     padding: 30px 0;
 }
 
 .footer_bottom span {
     display: block;
     font-size: 14px;
-    color: #cccccc;
+    color: #56e2f5;
     text-align: center;
 }
 
@@ -1024,7 +1026,7 @@ img {
 }
 
 .footer_bottom span a:hover {
-    color: #fff;
+    color: rgb(175, 255, 248);
 }
 
 /* Animation Timers
@@ -1884,3 +1886,13 @@ footer {
 .ml-3, .mx-3 {
     margin-left: 1rem !important;
 }
+
+
+
+
+
+
+
+
+
+
